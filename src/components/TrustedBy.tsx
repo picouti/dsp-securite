@@ -4,10 +4,8 @@ import smileWorld from '../img/SimleWorld.jpeg';
 // Remplace les URLs par tes propres logos si besoin
 const logos = [
   { src: smileWorld, alt: 'Entreprise 1' },
-  { src: 'https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg', alt: 'Entreprise 2' },
-  { src: 'https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg', alt: 'Entreprise 3' },
-  { src: 'https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg', alt: 'Entreprise 4' },
-  { src: 'https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg', alt: 'Entreprise 5' },
+  { src: 'https://upload.wikimedia.org/wikipedia/commons/f/fd/The_Westfield_Group_logo.svg', alt: 'Entreprise 2' },
+  { src: 'https://upload.wikimedia.org/wikipedia/commons/3/3b/Logo_F%C3%AAte_de_l%27Humanit%C3%A9.svg', alt: 'Entreprise 3' },
 ];
 
 export default function TrustedBy() {
